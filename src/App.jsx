@@ -30,7 +30,7 @@ const NAV = [
 
 const STATS = [
   { label: "Target Power", value: "300W–2000W", sub: "UMGT generators" },
-  { label: "Target Thrust", value: "50–2000 N", sub: "micro jet engines" },
+  { label: "Target Thrust", value: "50–2000N", sub: "micro jet engines" },
   { label: "Lead Time", value: "≤ 2–6 wks", sub: "print-to-flight (pilot)" },
   { label: "Cost Basis", value: "~$3K", sub: "equipment + powder" },
 ];
