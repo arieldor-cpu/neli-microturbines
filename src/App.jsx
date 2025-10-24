@@ -196,7 +196,7 @@ export default function NeliMicroturbinesSite() {
           <div className="flex items-end justify-between gap-6">
             <div>
               <h2 className="text-3xl font-bold">Products</h2>
-              <p className="mt-3 max-w-prose text-zinc-300">Affordable, high-performance propulsion & power modules for defense and industrial UAVs. Beta site in Israel first; U.S. pilots to follow.</p>
+              <p className="mt-3 max-w-prose text-zinc-300">Affordable, high-performance propulsion & power modules for defense and industrial UAVs </p>
             </div>
             <Button href="#contact" variant="ghost">Partner with us</Button>
           </div>
