@@ -124,7 +124,7 @@ export default function NeliMicroturbinesSite() {
             <div>
               <Tag>Re-inventing UAV propulsion</Tag>
               <h1 className="mt-4 text-4xl font-extrabold tracking-tight sm:text-5xl">
-                High-Performance micro-generators & jet engines for autonomous systems
+                Creating micro energy and propulsion solutions for defense, energy, and mobility in autonomous systems
               </h1>
               <p className="mt-4 max-w-prose text-zinc-300">
                 We design micro gas turbines from the ground up—purpose-built for additive manufacturing. Our printed engines power
