@@ -227,7 +227,7 @@ export default function NeliMicroturbinesSite() {
               <h2 className="text-3xl font-bold">Contact</h2>
               <p className="mt-3 max-w-prose text-zinc-300">Tell us about your platform and power/thrust needs. We’ll follow up to schedule a technical session.</p>
               <div className="mt-6 grid gap-3 text-sm">
-                <div className="flex items-center gap-2 text-zinc-300"><Mail className="size-4 text-emerald-400" /> <a className="hover:underline" href="mailto:hello@neli-microturbines.com">hello@neli-microturbines.com</a></div>
+                <div className="flex items-center gap-2 text-zinc-300"><Mail className="size-4 text-emerald-400" /> <a className="hover:underline" href="mailto:info@neli-microturbines.com">info@neli-microturbines.com</a></div>
                 <div className="flex items-center gap-2 text-zinc-300"><Globe2 className="size-4 text-emerald-400" /> neli-microturbines.com</div>
               </div>
             </div>
