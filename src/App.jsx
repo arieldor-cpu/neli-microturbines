@@ -88,10 +88,14 @@ export default function NeliMicroturbinesSite() {
       {/* Nav */}
       <header className="sticky top-0 z-40 border-b border-zinc-800/70 bg-black/70 backdrop-blur">
         <Container className="flex h-16 items-center justify-between">
-          <a href="#" className="flex items-center gap-3">
-            <div className="size-8 rounded-xl bg-gradient-to-br from-emerald-400 to-teal-500" />
-            <span className="text-lg font-bold tracking-tight">Neli Microturbines</span>
-          </a>
+          <a href="/" className="flex items-center gap-3">
+  <img
+    src="/Neli Logo_New.jpeg"
+    alt="Neli Microturbines logo"
+    className="h-8 w-auto"
+  />
+  <span className="text-lg font-bold tracking-tight">Neli Microturbines</span>
+</a>
           <nav className="hidden md:flex items-center gap-6 text-sm">
             {NAV.map((n) => (
               <a key={n.href} href={n.href} className="text-zinc-300 hover:text-white">
