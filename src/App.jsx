@@ -57,7 +57,7 @@ const PRODUCTS = [
   },
   {
     title: "Micro Jet Engine",
-    tag: "Propulsion • 50–2500 N",
+    tag: "Propulsion • 50–2500N",
     bullets: [
       "Compact, efficient heat engines for high T/W UAVs",
       "Printed turbomachinery with porous-media combustors",
