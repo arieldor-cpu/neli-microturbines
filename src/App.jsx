@@ -92,7 +92,7 @@ export default function NeliMicroturbinesSite() {
   <img
     src="/Neli Logo_New.jpeg"
     alt="Neli Microturbines logo"
-    className="h-8 w-auto"
+    className="h-16 w-auto"
   />
   <span className="text-lg font-bold tracking-tight">Neli Microturbines</span>
 </a>
