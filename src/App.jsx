@@ -143,18 +143,10 @@ export default function NeliMicroturbinesSite() {
                 ))}
               </div>
             </div>
-            <Card className="relative aspect-[4/3] overflow-hidden">
-  <div className="absolute inset-0 bg-[radial-gradient(600px_300px_at_30%_20%,rgba(16,185,129,0.2),transparent)]" />
-  <div className="absolute inset-0 grid place-items-center">
-    <div className="size-40 rounded-full border border-emerald-400/40 grid place-items-center">
-      <Flame className="size-10" />
-    </div>
-  </div>
-
-  {/* ✅ Your custom hero image (put the file in /public) */}
+        <Card className="relative aspect-[4/3] overflow-hidden">
   <img
     alt="Neli hero"
-    className="absolute inset-0 size-full object-cover opacity-20"
+    className="absolute inset-0 size-full object-cover opacity-100"
     src="/website-image.png"
   />
 </Card>
