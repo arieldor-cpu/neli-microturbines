@@ -29,10 +29,10 @@ const NAV = [
 ];
 
 const STATS = [
-  { label: "Target Power", value: "300W–1500W", sub: "UMGT generators" },
-  { label: "Target Thrust", value: "500–2500 N", sub: "micro jet engines" },
+  { label: "Target Power", value: "300W–2000W", sub: "UMGT generators" },
+  { label: "Target Thrust", value: "50–2000 N", sub: "micro jet engines" },
   { label: "Lead Time", value: "≤ 2–6 wks", sub: "print-to-flight (pilot)" },
-  { label: "Cost Basis", value: "~$15K", sub: "equipment + powder" },
+  { label: "Cost Basis", value: "~$3K", sub: "equipment + powder" },
 ];
 
 const VALUE_POINTS = [
@@ -57,7 +57,7 @@ const PRODUCTS = [
   },
   {
     title: "Micro Jet Engine",
-    tag: "Propulsion • 500–2500 N",
+    tag: "Propulsion • 50–2500 N",
     bullets: [
       "Compact, efficient heat engines for high T/W UAVs",
       "Printed turbomachinery with porous-media combustors",
