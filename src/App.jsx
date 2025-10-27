@@ -147,11 +147,30 @@ export default function NeliMicroturbinesSite() {
                 ))}
               </div>
             </div>
-        <Card className="relative aspect-[4/3] overflow-hidden">
+       <Card className="relative aspect-[4/3] overflow-hidden">
   <img
     alt="Neli hero"
-    className="absolute inset-0 size-full object-cover opacity-100"
+    className="absolute inset-0 size-full object-cover opacity-80"
     src="/website-image.png"
+  />
+  
+  {/* Play Button Overlay */}
+  <a
+    href="https://www.youtube.com/watch?v=Uys0_Qps"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="absolute bottom-6 right-6 bg-emerald-500/80 hover:bg-emerald-600 text-white rounded-full p-6 shadow-lg transition-transform hover:scale-110"
+  >
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      className="h-12 w-12"
+      fill="currentColor"
+      viewBox="0 0 24 24"
+    >
+      <path d="M8 5v14l11-7z" />
+    </svg>
+  </a>
+</Card>
   />
 </Card>
           </div>
